@@ -1,0 +1,5 @@
+*-cache.lib
+*.kicad_pcb-bak
+*.bak
+sym-lib-table
+
